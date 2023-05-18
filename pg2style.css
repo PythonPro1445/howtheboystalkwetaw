@@ -1,0 +1,54 @@
+body{
+    background-color: lightblue;   
+}
+
+
+#roomforpranav{
+    border: ridge;
+    border-radius: 10px;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: red;
+}
+
+#roomforjamie{
+    border: ridge;
+    border-radius: 10px;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: blue;
+}
+
+#roomforkrish{
+    border: ridge;
+    border-radius: 10px;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: yellow;
+}
+
+#roomforaryan{
+    border: ridge;
+    border-radius: 10px;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: orange;
+}
+
+#roomforaryav{
+    border: ridge;
+    border-radius: 10px;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: green;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
