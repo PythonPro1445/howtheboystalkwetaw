@@ -1,24 +1,35 @@
-body
-{
-    background-color: lightblue;    
+body {
+  background-color: lightblue;
+  font-family: 'Yeon Sung', cursive;
 }
-
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login_div {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 400px;
+  width: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.logo {
+  max-width: 150px;
+  margin-bottom: 10px;
+}
+h3, h4 {
+  margin: 0;
+  text-align: center;
+}
 .form-group {
-    margin-bottom: 15px;
-  }
-  
-  .form-group label {
-    display: block;
-    margin-bottom: 5px;
-  }
-  
-  .form-group .form-control {
-    width: 100%;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-  }
-  
-  /* Additional styling if needed */
-  
+  margin-bottom: 20px;
+}
+label {
+  font-weight: bold;
+}
+.btn {
+  width: 100%;
+}
