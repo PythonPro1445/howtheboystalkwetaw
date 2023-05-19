@@ -17,3 +17,7 @@ function talktoaryav() {
 function talktoaryan() {
     window.location = "passwordpagearyan.html";
 }
+
+function logout() {
+    window.location = "index.html";
+}
