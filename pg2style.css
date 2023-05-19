@@ -48,6 +48,15 @@ body{
     border-color: green;
 }
 
+#roomformichael{
+    border: ridge;
+    border-radius: 10px;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: purple;
+}
+
 .logo{
     width: 50px;
     height: 50px;
